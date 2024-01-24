@@ -1,0 +1,4 @@
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\aula03\obj\Debug\net8.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\aula03\obj\Debug\net8.0\aula03.AssemblyInfoInputs.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\aula03\obj\Debug\net8.0\aula03.AssemblyInfo.cs
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\aula03\obj\Debug\net8.0\aula03.csproj.CoreCompileInputs.cache

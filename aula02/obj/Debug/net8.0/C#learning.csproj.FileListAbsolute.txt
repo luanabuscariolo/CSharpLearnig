@@ -1,0 +1,14 @@
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\bin\Debug\net8.0\C#learning.exe
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\bin\Debug\net8.0\C#learning.deps.json
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\bin\Debug\net8.0\C#learning.runtimeconfig.json
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\bin\Debug\net8.0\C#learning.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\bin\Debug\net8.0\C#learning.pdb
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.AssemblyInfoInputs.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.AssemblyInfo.cs
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.csproj.CoreCompileInputs.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\refint\C#learning.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.pdb
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\C#learning.genruntimeconfig.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\C#learning\obj\Debug\net8.0\ref\C#learning.dll
