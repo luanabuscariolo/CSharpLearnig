@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula02\\C#learning.csproj",
+      "projectUniqueName": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula02\\C#learning.csproj",
       "projectName": "C#learning",
-      "projectPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula02\\C#learning.csproj",
+      "projectPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula02\\C#learning.csproj",
       "packagesPath": "C:\\Users\\Luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula02\\obj\\",
+      "outputPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
