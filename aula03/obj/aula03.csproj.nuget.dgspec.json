@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula03\\aula03.csproj": {}
+    "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula03\\aula03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula03\\aula03.csproj": {
+    "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula03\\aula03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula03\\aula03.csproj",
+        "projectUniqueName": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula03\\aula03.csproj",
         "projectName": "aula03",
-        "projectPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula03\\aula03.csproj",
+        "projectPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula03\\aula03.csproj",
         "packagesPath": "C:\\Users\\Luana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\C#learning\\aula03\\obj\\",
+        "outputPath": "C:\\Users\\Luana\\OneDrive\\BackupTudoOneDrive\\Documentos\\BackupTudoOneDrive\\ESTUDOS\\estudosProgramação\\CSharpLearnig\\aula03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luana\\AppData\\Roaming\\NuGet\\NuGet.Config"
