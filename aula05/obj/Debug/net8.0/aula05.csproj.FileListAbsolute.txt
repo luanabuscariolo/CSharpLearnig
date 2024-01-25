@@ -1,0 +1,15 @@
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.AssemblyInfoInputs.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.AssemblyInfo.cs
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.csproj.CoreCompileInputs.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.sourcelink.json
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\bin\Debug\net8.0\aula05.exe
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\bin\Debug\net8.0\aula05.deps.json
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\bin\Debug\net8.0\aula05.runtimeconfig.json
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\bin\Debug\net8.0\aula05.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\bin\Debug\net8.0\aula05.pdb
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\refint\aula05.dll
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.pdb
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\aula05.genruntimeconfig.cache
+C:\Users\Luana\OneDrive\BackupTudoOneDrive\Documentos\BackupTudoOneDrive\ESTUDOS\estudosProgramação\CSharpLearnig\aula05\obj\Debug\net8.0\ref\aula05.dll
