@@ -20,5 +20,12 @@ namespace ConstrutoresDestrutores
         {
             this.Modelo = modelo;
         }
+        public Carro(string modelo, int portas, double preco)
+        {
+            this.Modelo = modelo;
+            this.Portas = portas;
+            this.Preco = preco;
+        }
+
     }
 }

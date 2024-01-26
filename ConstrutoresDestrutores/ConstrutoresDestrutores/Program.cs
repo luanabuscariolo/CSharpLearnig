@@ -14,7 +14,11 @@
             c2.Preco = 49500;
             c2.Portas = 4;
 
-            Carro c3 = new Carro("Palio"); 
+            Carro c3 = new Carro("Palio");
+            c3.Portas = 2;
+            c3.Preco = 15900;
+
+
         }
     }
 }
