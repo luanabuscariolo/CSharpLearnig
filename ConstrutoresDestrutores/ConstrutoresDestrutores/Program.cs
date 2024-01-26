@@ -1,8 +1,15 @@
-﻿namespace ConstrutoresDestrutores
+﻿using System;
+
+namespace ConstrutoresDestrutores
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static Program()
+        {
+            Console.WriteLine("Programa iniciado com sucesso.");
+        }
+
+        static void CriarObjetos()
         {
             Carro c1 = new Carro();
             c1.Modelo = "Fusca";
@@ -18,7 +25,18 @@
             c3.Portas = 2;
             c3.Preco = 15900;
 
+            Carro c4 = new Carro("Monza", 4, 39400);
 
+            Carro c5 = new Carro(1190);
+        }
+
+        static void Main(string[] args)
+        {
+            CriarObjetos();
+
+            Console.WriteLine("Objetos não são mais utilizados nesse ponto.");
+
+            GC.Collect();
         }
     }
 }

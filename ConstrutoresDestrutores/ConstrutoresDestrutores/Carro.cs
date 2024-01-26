@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConstrutoresDestrutores
 {
-    internal class Carro
+    class Carro : Veiculo
     {
         public string Modelo { get; set; }
         public int Portas { get; set; }
@@ -14,18 +14,29 @@ namespace ConstrutoresDestrutores
 
         public Carro() // Construtor Padrão
         {
-            Console.WriteLine("Um novo objeto carro foi criado.");
+            Console.WriteLine("Um novo objeto Carro foi criado.");
         }
+
+        public Carro(int pesoKg) : base(pesoKg)
+        {
+            //this.PesoKg = pesoKg;
+            Console.WriteLine($"Um novo objeto do tipo Carro com peso {this.PesoKg} foi criado.");
+        }
+
         public Carro(string modelo) : this() // Construtor Parametrizado
         {
             this.Modelo = modelo;
         }
-        public Carro(string modelo, int portas, double preco)
+
+        public Carro(string modelo, int portas, double preco) : this(modelo)
         {
-            this.Modelo = modelo;
             this.Portas = portas;
             this.Preco = preco;
         }
 
+        ~Carro()
+        {
+            Console.WriteLine("Um objeto do tipo Carro foi destruido.");
+        }
     }
 }
