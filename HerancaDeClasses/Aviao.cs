@@ -50,7 +50,7 @@ namespace HerancaDeClasses
 
         private void Pousar()
         {
-            while (this.Altitude < 0)
+            while (this.Altitude > 0)
             {
                 Console.WriteLine($"O avião está a {this.Altitude:F2} metros de altitude.");
                 this.Altitude -= 60;
