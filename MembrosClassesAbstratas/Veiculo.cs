@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MembrosClassesAbstratas
 {
-    internal class Veiculo
+    public abstract class Veiculo
     {
         public double Peso { get; set; }
 
@@ -20,5 +20,7 @@ namespace MembrosClassesAbstratas
         {
             Console.WriteLine("Um novo objeto Veiculo foi destruido.");
         }
+
+        public abstract void Mover(double distancia);
     }
 }
