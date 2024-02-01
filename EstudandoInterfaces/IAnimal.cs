@@ -11,5 +11,6 @@ namespace EstudandoInterfaces
         void Comer();
         void Dormir();
         void EmitirSom();
+        void Andar();
     }
 }

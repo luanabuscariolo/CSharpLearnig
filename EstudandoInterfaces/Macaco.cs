@@ -8,6 +8,11 @@ namespace EstudandoInterfaces
 {
     class Macaco : IAnimal, IBipede
     {
+        public void Andar()
+        {
+            Console.WriteLine("O macaco está andando.");
+        }
+
         public void Caminhar()
         {
             Console.WriteLine("O macaco está caminhando.");

@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace EstudandoInterfaces
 {
-    internal class Cachorro : IAnimal, IQuadrupede
+    class Cachorro : IAnimal, IQuadrupede
     {
-        public void Andar()
+        void IAnimal.Andar()
+        {
+            Console.WriteLine("O cachorro está andando.");
+        }
+
+        void IQuadrupede.Andar()
         {
             Console.WriteLine("O cachorro está andando com as 4 patas.");
         }
