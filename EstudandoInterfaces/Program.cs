@@ -49,7 +49,7 @@ internal class Program
         {
             Console.WriteLine("-------------------------------");
             if (animal is IQuadrupede)
-                Console.WriteLine("Este animal é um quadrupede.");
+                Console.WriteLine("Este animal é um quadrúpede.");
 
             if (animal is IBipede)
                 Console.WriteLine("Este animal é um bípede.");
