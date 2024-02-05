@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ArenaDeBatalha.GameLogic
 {
-    internal class GameObject
+    internal abstract class GameObject
     {
         #region Game Object Properties
         public Bitmap Sprite { get; set; }
@@ -28,7 +28,7 @@ namespace ArenaDeBatalha.GameLogic
 
         #region Game Object Methods
 
-        public virtual Bitmap GetSprite() { return null; }
+        public abstract Bitmap GetSprite();
 
         public GameObject(Size bounds, Graphics screen)
         {
@@ -38,6 +38,66 @@ namespace ArenaDeBatalha.GameLogic
             this.soundPlayer = new SoundPlayer();
             this.Sprite = this.GetSprite();
             this.Rectangle = new Rectangle(this.Left, this.Top, this.Width, this.Height);
+        }
+
+        public virtual void UpdateObject()
+        {
+            this.Rectangle = new Rectangle(this.Left, this.Top, this.Width, this.Height);
+            this.Screen.DrawImage(this.Sprite, this.Rectangle);
+        }
+
+        public virtual void MoveLeft()
+        {
+            if (this.Left > 0)
+            {
+                this.Left -= this.Speed;
+            }
+        }
+        public virtual void MoveRight()
+        {
+            if (this.Left < this.Bounds.Width - this.Width)
+            {
+                this.Left += this.Speed;
+            }
+        }
+
+        public virtual void MoveDown()
+        {
+            this.Top += this.Speed;
+        }
+        public virtual void MoveUp()
+        {
+            this.Top -= this.Speed;
+        }
+
+        public bool IsOutOfBounds()
+        {
+            return
+                (this.Top > this.Bounds.Height + this.Height) ||
+                (this.Top < -this.Height) ||
+                (this.Left > this.Bounds.Width + this.Width) ||
+                (this.Left < -this.Width);
+        }
+
+        public void PlaySound()
+        {
+            soundPlayer.Stream = this.Sound;
+            soundPlayer.Play();
+        }
+
+        public bool IsCollidingWith(GameObject gameObject)
+        {
+            if (this.Rectangle.IntersectsWith(gameObject.Rectangle))
+            {
+                this.PlaySound();
+                return true;
+            }
+            else return false;
+        }
+
+        public void Destroy()
+        {
+            this.Active = false;
         }
 
         #endregion
