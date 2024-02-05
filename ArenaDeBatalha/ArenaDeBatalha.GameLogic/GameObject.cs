@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ArenaDeBatalha.GameLogic
 {
-    internal abstract class GameObject
+    public abstract class GameObject
     {
         #region Game Object Properties
         public Bitmap Sprite { get; set; }
