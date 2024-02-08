@@ -7,32 +7,46 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE-edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/estilos.css" />
     <title>Enquete Web! :: Resposta</title>
 </head>
 <body>
-    <h1>Enquete Web!</h1>
-    <h2>Você teria coragem de fazer uma viagem sem volta para Marte?</h2>
-    <h4>Preencha os campos e marque sua resposta!</h4>
-    <form method="POST">
-        <div>
-            <label for="txtNome">Seu Nome:</label><br />
-            <input type="text" name="Nome" id="txtNome" />
+    <div class="container">
+        <div class="row">
+            <div class="offset-3 col-6">
+                <h1>Enquete Web!</h1>
+                <h2>Você teria coragem de fazer uma viagem sem volta para Marte?</h2>
+                <h4>Preencha os campos e marque sua resposta!</h4>
+                <div asp-validation-summary="All"></div>
+                <form method="POST">
+                    <div class="form-group">
+                        <!--
+                            <label for="txtNome">Seu Nome:</label><br />
+                            <input type="text" name="Nome" id="txtNome" />
+                        -->
+                        <label asp-for="Nome">Seu Nome:</label><br />
+                        <input asp-for="Nome" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Seu E-mail:</label><br />
+                        <input asp-for="Email" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        Resposta:
+                        <div>
+                            <input type="radio" id="rdSim" asp-for="Sim" value="true" class="form-check-input" />
+                            <label for="rdSim" class="form-check-label">Sim</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="rdNao" asp-for="Sim" value="false" class="form-check-input" />
+                            <label for="rdNao" class="form-check-label">Não</label>
+                        </div>
+                    </div>
+                    <input class="btn btn-primary" type="submit" value="Enviar Resposta" /> 
+                </form>
+            </div>
         </div>
-        <div>
-            <label for="txtEmail">Seu E-mail:</label><br />
-            <input type="email" name="Email" id="txtEmail" />
-        </div>
-        Resposta:
-        <div>
-            <input type="radio" id="rdSim" name="Sim" value="true" />
-            <label for="rdSim">Sim</label>
-        </div>
-        <div>
-            <input type="radio" id="rdNao" name="Sim" value="false" />
-            <label for="rdNao">Não</label>
-        </div>
-        <input type="submit" value="Enviar Resposta" /> 
-    </form>
-
+    </div>
 </body>
 </html>
