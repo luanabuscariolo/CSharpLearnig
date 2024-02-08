@@ -5,7 +5,7 @@ internal class Program
         var builder = WebApplication.CreateBuilder(args);
 
         // Add services to the container.
-        builder.Services.AddControllersWithViews(); //.AddRazorRuntimeCompilation();
+        builder.Services.AddControllersWithViews(); //.AddRazorRuntimeCompilation(); //PARA VS CODE PODE SER ÚTIL
 
         var app = builder.Build();
 
